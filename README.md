@@ -2,7 +2,7 @@
 
 This is a website which includes my details,projects done,hobbies,skills,interests
 
-# Programmig tools used
+# Programming tools used
 
 HTML,Css
 

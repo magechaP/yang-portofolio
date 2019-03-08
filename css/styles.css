@@ -3,7 +3,7 @@
  display: flex;
  justify-content: center;
  align-items: center;
- background-color: #
+ background-color: #E59866
 }
 
 h2 {
@@ -18,4 +18,20 @@ h3 {
 
 .julee {
   font-family: 'Sniglet', cursive;
+}
+
+body {
+  background-image: url("../image/background.jpg");
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }

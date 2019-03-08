@@ -3,9 +3,19 @@
  display: flex;
  justify-content: center;
  align-items: center;
+ background-color: #
 }
 
 h2 {
   font-family: 'Julee', cursive;
   font-weight: bold;
+}
+
+h3 {
+  font-family: 'Julee', cursive;
+  font-weight: bold;
+}
+
+.julee {
+  font-family: 'Sniglet', cursive;
 }
